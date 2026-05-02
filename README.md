@@ -1,3 +1,7 @@
+<img width="1714" height="463" alt="image" src="https://github.com/user-attachments/assets/abceb63f-a900-4e52-a898-04a3ce2839af" />
+
+<img width="1540" height="875" alt="image" src="https://github.com/user-attachments/assets/c3dbfa0a-b0c9-4a4f-a188-503f5f10e0a5" />
+
 # Backend Engineering Assessment — Afford Medical Technologies
 
 ## Project Structure
